@@ -53,6 +53,7 @@ nav {
     font-size: 20px;
     margin-left: 15%;
     padding: 15px;
+    position: absolute;
 }
 .nav2 {
     display: inline-block;
@@ -60,6 +61,8 @@ nav {
     color: white;
     font-size: 20px;
     padding: 15px;
+    margin-left: 22%;
+    position: absolute;
 }
 .nav3 {
     display: inline-block;
@@ -67,13 +70,17 @@ nav {
     color: white;
     font-size: 20px;
     padding: 15px;
+    margin-left: 26.6%;
+    position: absolute;
 }
 .nav4 {
     display: inline-block;
     background-color:  dimgray;
     color: white;
     font-size: 20px;
+    margin-left: 33.1%;
     padding: 15px;
+    position: absolute;
 }
 .name {
     display: inline-block;
