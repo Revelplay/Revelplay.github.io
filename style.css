@@ -44,6 +44,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 nav {
     background-color:darkslategray ;
+    width: 100%;
 }
 
 .nav1 {
@@ -53,7 +54,6 @@ nav {
     font-size: 20px;
     margin-left: 15%;
     padding: 15px;
-    position: absolute;
 }
 .nav2 {
     display: inline-block;
@@ -61,8 +61,6 @@ nav {
     color: white;
     font-size: 20px;
     padding: 15px;
-    margin-left: 22%;
-    position: absolute;
 }
 .nav3 {
     display: inline-block;
@@ -70,17 +68,13 @@ nav {
     color: white;
     font-size: 20px;
     padding: 15px;
-    margin-left: 26.6%;
-    position: absolute;
 }
 .nav4 {
     display: inline-block;
     background-color:  dimgray;
     color: white;
     font-size: 20px;
-    margin-left: 33.1%;
     padding: 15px;
-    position: absolute;
 }
 .name {
     display: inline-block;
@@ -135,7 +129,7 @@ h1 {
 footer {
     background-color: darkslategray;
     min-height: 57px;
-	width: auto;
+    width: 100%;
 }
 .Rights {
     font-size: 16px;
@@ -212,44 +206,36 @@ html {
     display: inline-block;
     color: black;
     font-size: 20px;
-    padding: 200px 100px 200px 100px;
-    position: absolute;
-    margin-left: 19%;
-    border-radius: 30px 0 30px 0;
-    margin-top: 10%;
-    border: 10px solid black;
+    margin-top: 26.6%;
+    margin-left: 1%;
 
 }
 .Steam {
     display: inline-block;
     color: black;
     font-size: 20px;
-    padding: 15px;
-    position: absolute;
-    margin-top: 24%;
-    margin-left: 24%;
+    margin-top: 2.5%;
+    margin-left: 1%;
 }
 .Ryfma {
     display: inline-block;
     color: black;
     font-size: 20px;
-    padding: 15px;
-    position: absolute;
-    margin-top: 17%;
-    margin-left: 24%;
+    margin-top: 2.5%;
+    margin-left: 1%;
+
 }
 .Ryfma_logo {
-    position: absolute;
-    margin-top: 16.8%;
-    margin-left: 21.5%;
+    margin-left: 45%;
+    margin-top: 1%
+    
 }
 .VK_logo {
-    position: absolute;
-    margin-top: 20%;
-    margin-left: 21.5%;
+    margin-left: 45%;
+    margin-top: 25%;
+    
 }
 .Steam_logo {
-    position: absolute;
-    margin-top: 23.8%;
-    margin-left: 21.5%;
+    margin-left: 45%;
+    margin-top: 1%
 }
